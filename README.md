@@ -1,4 +1,9 @@
 ## Hi there 👋
+Military veteran with a background in Intelligence and Cybersecurity, transitioning into full-stack development to bridge the gap between identifying risks and engineering the solutions that prevent them. This pivot into Northcoders’ industry-led environment stems from a fascination with the logic of programming and the creative challenge of building secure, scalable software. A security-first mindset, rooted in OSINT and threat analysis, ensures resilience is woven into code from the outset, demonstrated through personal projects like a custom password manager built in Rust. Bringing a veteran’s discipline, calm under pressure, and an analyst’s precision to a forward-thinking team, the focus remains on high-level problem-solving and robust software architecture.
+
+## Current Projects
+PokemonArenaBattle - Player VS CPU console game using C#, 3vs Pokemon game
+[PasswordManager] - Not created Repo, building a custom secure password manager utilising Rust as a way to engage with previous security fundamentals, and add another language to my arsenal. 
 
 <!--
 **layyzzee/layyzzee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
