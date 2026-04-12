@@ -5,7 +5,7 @@ Military veteran with a background in Intelligence and Cybersecurity, transition
 PokemonArenaBattle - Player VS CPU console game using C#, 3vs Pokemon game
 [PasswordManager] - Not created Repo, building a custom secure password manager utilising Rust as a way to engage with previous security fundamentals, and add another language to my arsenal. 
 
-##Contact me
+## Contact me
 https://www.linkedin.com/in/katistark/
 <!--
 **layyzzee/layyzzee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
