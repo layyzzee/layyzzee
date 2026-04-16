@@ -1,23 +1,48 @@
-## Hi there 👋
-Military veteran with a background in Intelligence and Cybersecurity, transitioning into full-stack development to bridge the gap between identifying risks and engineering the solutions that prevent them. This pivot into Northcoders’ industry-led environment stems from a fascination with the logic of programming and the creative challenge of building secure, scalable software. A security-first mindset, rooted in OSINT and threat analysis, ensures resilience is woven into code from the outset, demonstrated through personal projects like a custom password manager built in Rust. Bringing a veteran’s discipline, calm under pressure, and an analyst’s precision to a forward-thinking team, the focus remains on high-level problem-solving and robust software architecture.
+# ## Hi there 👋
 
-## Current Projects
-PokemonArenaBattle - Player VS CPU console game using C#, 3vs Pokemon game
-[PasswordManager] - Not created Repo, building a custom secure password manager utilising Rust as a way to engage with previous security fundamentals, and add another language to my arsenal. 
+### 🎖️ Military Veteran | Intelligence & Cyber Specialist | Full-Stack Developer
 
-## Contact me
-https://www.linkedin.com/in/katistark/
-<!--
-**layyzzee/layyzzee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a former Intelligence Analyst transitioning into Software Engineering. My background in **OSINT** and **Threat Analysis** defines my approach to development: I don’t just build features; I engineer resilient, security-conscious solutions. Currently honing my craft at **Northcoders**, I bridge the gap between identifying vulnerabilities and coding the defenses. 
 
-Here are some ideas to get you started:
+Bringing a veteran’s discipline, calm under pressure, and an analyst’s precision to a forward-thinking team, my focus remains on high-level problem-solving and robust software architecture.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Featured Projects
+
+#### 🛰️ [Mars Rover Challenge](https://github.com)
+*A technical logic challenge focused on algorithmic navigation and coordinate systems.*
+* **The Mission:** Engineered a backend system to navigate a squad of rovers across a rectangular Martian plateau using directional commands.
+* **Tech Stack:** **C# / .NET Core**
+* **Key Focus:** Test-Driven Development (TDD) and clean OOP principles to manage state, orientation, and grid boundary validation.
+
+#### 🎮 [Pokemon Arena Battle](https://github.com)
+*A turn-based strategy console game.*
+* **The Mission:** A 3-vs-3 Player vs. CPU battle engine that simulates core Pokemon mechanics and type-effectiveness.
+* **Tech Stack:** **C# / .NET**
+* **Key Focus:** Complex game logic, class inheritance, and automated CPU decision-making.
+
+#### 🔐 [Rust Password Manager] (In Development)
+*Applying cybersecurity fundamentals to modern systems programming.*
+* **The Mission:** Developing a secure, CLI-based credential vault to explore Rust’s memory safety and encryption libraries.
+* **Focus:** AES encryption, secure memory handling, and the Rust ownership model.
+
+---
+
+### 🛠️ Tech Stack & Tools
+* **Languages:** C#, JavaScript, Rust (Learning)
+* **Frameworks/Environments:** .NET Core, Node.js
+* **Cybersecurity:** OSINT, Threat Analysis, Security-First Architecture
+* **Soft Skills:** Analytical Precision, Disciplined Execution, Calm Under Pressure
+
+---
+
+### 🤝 Connect with me
+* **LinkedIn:** [://linkedin.com](https://www.://linkedin.com)
+* **Email:** [Your Email Here](Kati.stark95@gmail.com)
+
+---
+
+<p align="center">
+  <img src="https://vercel.app" alt="Kat's GitHub Stats" />
+</p>
