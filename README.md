@@ -1,4 +1,4 @@
-### Military Veteran | Intelligence & Cyber Specialist | Full-Stack Developer
+### 🎖️ Military Veteran | Intelligence & Cyber Specialist | Full-Stack Developer
 
 I am a former Intelligence Analyst transitioning into Software Engineering. My background in **OSINT** and **Threat Analysis** defines my approach to development: I don’t just build features; I engineer resilient, security-conscious solutions. Currently honing my craft at **Northcoders**, I bridge the gap between identifying vulnerabilities and coding the defenses. 
 
