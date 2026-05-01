@@ -44,7 +44,6 @@ Bringing a veteran’s **discipline**, calm under pressure, and an analyst’s *
 
 ### 🤝 Connect with me
 * **LinkedIn:** [://linkedin.com](https://www.://linkedin.com)
-* **Email:** [Kati Stark](Kati.stark95@gmail.com)
 
 ---
 
