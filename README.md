@@ -22,10 +22,15 @@ Bringing a veteran’s **discipline**, calm under pressure, and an analyst’s *
 * **Tech Stack:** **C# / .NET**
 * **Key Focus:** Complex game logic, class inheritance, and automated CPU decision-making.
 
-#### 🔐 [Rust Password Manager] (In Development)
-*Applying cybersecurity fundamentals to modern systems programming.*
-* **The Mission:** Developing a secure, CLI-based credential vault to explore Rust’s memory safety and encryption libraries.
-* **Focus:** AES encryption, secure memory handling, and the Rust ownership model.
+#### 🔐 [Password Manager] (In Development)
+*Applying cybersecurity fundamentals to modern architectural patterns.*
+* **The Mission:** Developing a secure, CLI-based credential vault to master **C#** and the **.NET** security ecosystem.
+* **Tech Stack:** **C# / .NET**
+* **Key Focus:** 
+    * **MVC Architecture:** Implementing a strict Model-View-Controller pattern to separate sensitive data handling from the user interface.
+    * **TDD & Reliability:** Using Test-Driven Development to ensure cryptographic functions and logic boundaries are 100% verified.
+    * **Security:** Implementing robust **Authentication and Authorization** flows and utilizing **BCrypt** for industry-standard hashing and salting.
+
 
 ---
 
