@@ -47,6 +47,23 @@ I'm particularly interested in backend engineering, scalable systems, security-f
 
 ---
 
+### Whether Or Not
+Full-stack travel planning platform built collaboratively during Northcoders.
+
+**Key Features**
+- JWT authentication
+- Trip and itinerary management
+- Weather forecasting integration
+- AI-powered activity recommendations
+- Docker containerisation
+
+**Tech:** ASP.NET Core, Blazor, SQL Server, Entity Framework Core, Docker
+
+**Repository:**  
+https://github.com/vasswann/Won
+
+---
+
 ## Featured Projects
 
 ### Password Manager
@@ -62,23 +79,6 @@ Secure password vault built in C# using AES-256 encryption and SQLite.
 
 **Repository:**  
 https://github.com/layyzzee/PasswordManager
-
----
-
-### Whether Or Not
-Full-stack travel planning platform built collaboratively during Northcoders.
-
-**Key Features**
-- JWT authentication
-- Trip and itinerary management
-- Weather forecasting integration
-- AI-powered activity recommendations
-- Docker containerisation
-
-**Tech:** ASP.NET Core, Blazor, SQL Server, Entity Framework Core, Docker
-
-**Repository:**  
-https://github.com/vasswann/Won
 
 ---
 
@@ -104,6 +104,8 @@ https://github.com/layyzzee/csharp-mars-rover
 - Distributed systems fundamentals
 - Azure cloud services
 - Design patterns and clean architecture
+- JavaScript/TypeScript
+- REACT
 
 ---
 
