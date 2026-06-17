@@ -1,52 +1,115 @@
-## Hello 👋 I'm Kati Stark
+# Hi, I'm Kati Stark
 
-### 🎖️ Military Veteran | Intelligence & Cyber Specialist | Full-Stack Developer
+Junior Software Developer based in London with a background in cyber security and intelligence analysis from the Royal Navy.
 
-I am a former Intelligence Analyst transitioning into Software Developer. My background in **OSINT** and **Threat Analysis** defines my approach to development: I don’t just build features; I engineer resilient, security-conscious solutions. Currently honing my craft at Northcoders, I bridge the gap between identifying vulnerabilities and coding the defenses. 
+Recently completed the Northcoders C# Full-Stack Development Bootcamp, where I built full-stack applications using .NET, ASP.NET Core, Blazor, SQL Server, Docker, and Azure.
 
-Bringing a veteran’s **discipline**, calm under pressure, and an analyst’s **precision** to a forward-thinking team, my focus remains on high-level problem-solving and robust software architecture.
-
----
-
-### Featured Projects
-
-#### 🎮 [Pokemon Arena Battle](https://github.com/layyzzee/PokemonArenaBattle)
-*A turn-based strategy console game.*
-* **The Mission:** A 3-vs-3 Player vs. CPU battle engine that simulates core Pokemon mechanics and type-effectiveness.
-* **Tech Stack:** **C# / .NET**
-* **Key Focus:** Complex game logic, class inheritance, and automated CPU decision-making.
-
-#### 🛰️ [Mars Rover Challenge](https://github.com/layyzzee/csharp-mars-rover)
-*A technical logic challenge focused on algorithmic navigation and coordinate systems.*
-* **The Mission:** Engineered a backend system to navigate a squad of rovers across a rectangular Martian plateau using directional commands.
-* **Tech Stack:** **C# / .NET Core**
-* **Key Focus:** Test-Driven Development (TDD) and clean OOP principles to manage state, orientation, and grid boundary validation.
-
-#### 🔐 [Password Manager](https://github.com/layyzzee/PasswordManager) (In Development)
-*Applying cybersecurity fundamentals to modern architectural patterns.*
-* **The Mission:** Developing a secure, CLI-based credential vault to master **C#** and the **.NET** security ecosystem.
-* **Tech Stack:** **C# / .NET**
-* **Key Focus:** 
-    * **MVC Architecture:** Implementing a strict Model-View-Controller pattern to separate sensitive data handling from the user interface.
-    * **TDD & Reliability:** Using Test-Driven Development to ensure cryptographic functions and logic boundaries are 100% verified.
-    * **Security:** Implementing robust **Authentication and Authorization** flows and utilizing **BCrypt** for industry-standard hashing and salting.
-
+I'm particularly interested in backend engineering, scalable systems, security-focused development, and data-driven applications.
 
 ---
 
-### 🛠️ Tech Stack & Tools
-* **Languages:** C#, SQL (T-SQL), JavaScript, Rust (Learning)
-* **Frameworks/Environments:** .NET Core, Node.js
-* **Cybersecurity:** OSINT, Threat Analysis, Security-First Architecture
-* **Soft Skills:** Analytical Precision, Disciplined Execution, Calm Under Pressure
+## Tech Stack
+
+### Languages
+- C#
+- SQL
+- JavaScript
+- PowerShell
+
+### Backend
+- .NET 8
+- ASP.NET Core
+- REST APIs
+- Entity Framework Core
+- Authentication & Authorization
+
+### Frontend
+- Blazor
+- HTML
+- CSS
+
+### Databases
+- SQL Server
+- SQLite
+
+### Testing
+- NUnit
+- Moq
+- Test-Driven Development (TDD)
+
+### DevOps & Cloud
+- Docker
+- GitHub Actions
+- Azure
+- AWS
+- Git
 
 ---
 
-### 🤝 Connect with me
-* **LinkedIn:** [://linkedin.com](https://www.://linkedin.com)
+## Featured Projects
+
+### Password Manager
+Secure password vault built in C# using AES-256 encryption and SQLite.
+
+**Key Features**
+- AES-256 encryption
+- BCrypt password hashing
+- Injection-resistant storage layer
+- Session-based decryption model
+
+**Tech:** C#, SQLite, Cryptography
+
+**Repository:**  
+https://github.com/layyzzee/PasswordManager
 
 ---
 
-<p align="center">
-  <img src="https://vercel.app" alt="Kat's GitHub Stats" />
-</p>
+### Whether Or Not
+Full-stack travel planning platform built collaboratively during Northcoders.
+
+**Key Features**
+- JWT authentication
+- Trip and itinerary management
+- Weather forecasting integration
+- AI-powered activity recommendations
+- Docker containerisation
+
+**Tech:** ASP.NET Core, Blazor, SQL Server, Entity Framework Core, Docker
+
+**Repository:**  
+https://github.com/vasswann/Won
+
+---
+
+### Mars Rover
+Coordinate navigation challenge focused on algorithms and clean code practices.
+
+**Key Features**
+- Grid-based movement system
+- Input validation
+- Error handling
+- Test-driven development
+
+**Tech:** C#, NUnit
+
+**Repository:**  
+https://github.com/layyzzee/csharp-mars-rover
+
+---
+
+## Currently Learning
+
+- Advanced ASP.NET Core architecture
+- Distributed systems fundamentals
+- Azure cloud services
+- Design patterns and clean architecture
+
+---
+
+## Contact
+
+LinkedIn: https://www.linkedin.com/in/katistark/
+
+GitHub: https://github.com/layyzzee
+
+Email: kati.stark95@gmail.com
