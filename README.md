@@ -13,6 +13,7 @@ I'm particularly interested in backend engineering, scalable systems, security-f
 ### Languages
 - C#
 - SQL
+- T-SQL
 - JavaScript
 - PowerShell
 
