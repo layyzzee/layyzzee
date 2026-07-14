@@ -67,6 +67,9 @@ https://github.com/vasswann/Won
 ## Featured Projects
 
 ### Password Manager
+> ** Currently being reworked.**  
+> This project is undergoing a major rewrite and the repository is temporarily private while development continues. It will be made public again once the new version is ready.
+
 Secure password vault built in C# using AES-256 encryption and SQLite.
 
 **Key Features**
