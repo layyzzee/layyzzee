@@ -1,121 +1,110 @@
-# Hi, I'm Kati Stark
+# Hi, I'm Kati 👋
 
 Junior Software Developer based in London with a background in cyber security and intelligence analysis from the Royal Navy.
 
-Recently completed the Northcoders C# Full-Stack Development Bootcamp, where I built full-stack applications using .NET, ASP.NET Core, Blazor, SQL Server, Docker, and Azure.
+I recently completed the Northcoders C# Full-Stack Development Bootcamp, where I built full-stack applications with **.NET, ASP.NET Core, Blazor, SQL Server, Docker, and Azure**.
 
-I'm particularly interested in backend engineering, scalable systems, security-focused development, and data-driven applications.
+I'm particularly interested in backend engineering, scalable systems, secure software development, and data-driven applications.
 
----
+## 🛠 Tech Stack
 
-## Tech Stack
-
-### Languages
+**Languages**
 - C#
-- SQL
-- T-SQL
+- SQL / T-SQL
 - JavaScript
 - PowerShell
 
-### Backend
+**Backend**
 - .NET 8
 - ASP.NET Core
 - REST APIs
 - Entity Framework Core
 - Authentication & Authorization
 
-### Frontend
+**Frontend**
 - Blazor
 - HTML
 - CSS
 
-### Databases
+**Databases**
 - SQL Server
 - SQLite
 
-### Testing
+**Testing**
 - NUnit
 - Moq
 - Test-Driven Development (TDD)
 
-### DevOps & Cloud
+**Cloud & DevOps**
 - Docker
-- GitHub Actions
 - Azure
 - AWS
+- GitHub Actions
 - Git
 
 ---
 
-### Whether Or Not
-Full-stack travel planning platform built collaboratively during Northcoders.
+## 🚀 Featured Projects
 
-**Key Features**
-- JWT authentication
-- Trip and itinerary management
-- Weather forecasting integration
+### 🌍 Whether Or Not
+A collaborative full-stack travel planning platform built during Northcoders.
+
+**Highlights**
+- JWT Authentication
+- Trip & itinerary management
+- Weather API integration
 - AI-powered activity recommendations
 - Docker containerisation
 
-**Tech:** ASP.NET Core, Blazor, SQL Server, Entity Framework Core, Docker
+**Tech:** ASP.NET Core • Blazor • SQL Server • Entity Framework Core • Docker
 
-**Repository:**  
-https://github.com/vasswann/Won
+🔗 https://github.com/vasswann/Won
 
 ---
 
-## Featured Projects
+### 🔐 Password Manager *(Currently being rewritten)*
+A secure password vault built in C# using AES-256 encryption and SQLite.
 
-### Password Manager
-> ** Currently being reworked.**  
-> This project is undergoing a major rewrite and the repository is temporarily private while development continues. It will be made public again once the new version is ready.
-
-Secure password vault built in C# using AES-256 encryption and SQLite.
-
-**Key Features**
+**Highlights**
 - AES-256 encryption
 - BCrypt password hashing
-- Injection-resistant storage layer
-- Session-based decryption model
+- Injection-resistant data layer
+- Session-based decryption
 
-**Tech:** C#, SQLite, Cryptography
+**Tech:** C# • SQLite • Cryptography
 
-**Repository:**  
-https://github.com/layyzzee/PasswordManager
+> The project is currently private while I complete a major rewrite. It will be made public again once the new version is ready.
 
 ---
 
-### Mars Rover
-Coordinate navigation challenge focused on algorithms and clean code practices.
+### 🤖 Mars Rover
+A coding challenge focused on algorithms, clean architecture, and test-driven development.
 
-**Key Features**
-- Grid-based movement system
+**Highlights**
+- Grid-based navigation
 - Input validation
-- Error handling
-- Test-driven development
+- Robust error handling
+- Comprehensive unit tests
 
-**Tech:** C#, NUnit
+**Tech:** C# • NUnit
 
-**Repository:**  
-https://github.com/layyzzee/csharp-mars-rover
-
----
-
-## Currently Learning
-
-- Advanced ASP.NET Core architecture
-- Distributed systems fundamentals
-- Azure cloud services
-- Design patterns and clean architecture
-- JavaScript/TypeScript
-- REACT
+🔗 https://github.com/layyzzee/csharp-mars-rover
 
 ---
 
-## Contact
+## 📚 Currently Learning
 
-LinkedIn: https://www.linkedin.com/in/katistark/
+- Advanced ASP.NET Core
+- Distributed systems
+- Azure
+- Clean Architecture & design patterns
+- React
+- TypeScript
 
-GitHub: https://github.com/layyzzee
+---
 
-Email: kati.stark95@gmail.com
+## 📫 Connect
+
+- LinkedIn: https://www.linkedin.com/in/katistark/
+- GitHub: https://github.com/layyzzee
+- Email: kati.stark95@gmail.com
