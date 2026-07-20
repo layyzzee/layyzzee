@@ -23,6 +23,7 @@ I'm particularly interested in backend engineering, scalable systems, secure sof
 
 **Frontend**
 - Blazor
+- React
 - HTML
 - CSS
 
